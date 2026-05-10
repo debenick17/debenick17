@@ -55,5 +55,5 @@ I build reliable, scalable, and cloud-native infrastructure for modern applicati
 
 
 ## 📫 Connect With Me
-- LinkedIn: (debenick)[https://www.linkedin.com/in/debenick/]
-- Website: (ZindukaLema)[https://zindukalema.com]
+- LinkedIn: [debenick](https://www.linkedin.com/in/debenick/)
+- Website: [ZindukaLema](https://zindukalema.com)
