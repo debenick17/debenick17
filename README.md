@@ -10,8 +10,6 @@ I build reliable, scalable, and cloud-native infrastructure for modern applicati
 - 📊 Observability & Reliability Focused
 - 🤖 Interested in AI Infrastructure & Platform Engineering
 
----
-
 ## 🛠 Tech Stack
 
 ### Cloud & Infrastructure
@@ -37,22 +35,17 @@ I build reliable, scalable, and cloud-native infrastructure for modern applicati
 - REST APIs
 - Distributed Systems
 
----
-
 ## 📈 Currently Learning
 - AI Infrastructure
 - Self-hosted LLMs
 - RAG systems
 - GPU Orchestration
 
----
-
 ## 🏆 Certifications:
   - HashiCorp Certified: Terraform Associate
   - Professional Cloud DevOps Engineer Certification
   - Certified Kubernetes Administrator (In Progress)
   - AWS Certified Solutions Architect - Professional (In Progress)
-
 
 ## 📫 Connect With Me
 - LinkedIn: [debenick](https://www.linkedin.com/in/debenick/)
